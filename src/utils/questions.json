@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does JSX stand for?",
+      "options": [
+        "JavaScript XML",
+        "Extensible Stylesheet Language",
+        "JavaScript Extension",
+        "XHTML Syntax"
+      ],
+      "correctAnswer": "JavaScript XML"
+    },
+    {
+      "id": 2,
+      "question": "What is React?",
+      "options": [
+        "A JavaScript framework for building user interfaces",
+        "A back-end server framework",
+        "A database management system",
+        "A styling library"
+      ],
+      "correctAnswer": "A JavaScript framework for building user interfaces"
+    },
+    {
+      "id": 3,
+      "question": "What function is used to change the state of a component in React?",
+      "options": [
+        "this.setState()",
+        "this.modifyState()",
+        "this.updateState()",
+        "this.changeState()"
+      ],
+      "correctAnswer": "this.setState()"
+    },
+    {
+      "id": 4,
+      "question": "What is a prop in React?",
+      "options": [
+        "A value that can be passed from a parent component to a child component",
+        "A built-in HTML attribute",
+        "A CSS property",
+        "A state variable"
+      ],
+      "correctAnswer": "A value that can be passed from a parent component to a child component"
+    },
+    {
+      "id": 5,
+      "question": "What lifecycle method is called after a component has been rendered?",
+      "options": [
+        "componentWillMount",
+        "componentDidMount",
+        "componentDidRender",
+        "componentWillUnmount"
+      ],
+      "correctAnswer": "componentDidMount"
+    },
+    {
+      "id": 6,
+      "question": "What is the purpose of React Router?",
+      "options": [
+        "To enable navigation among views of various components in a React Application",
+        "To provide a way to write CSS in React components",
+        "To manage state in a React Application",
+        "To handle HTTP requests in a React Application"
+      ],
+      "correctAnswer": "To enable navigation among views of various components in a React Application"
+    },
+    {
+      "id": 7,
+      "question": "What is a React component?",
+      "options": [
+        "A function or class that accepts input and returns a React element",
+        "A built-in HTML element in React",
+        "A predefined style in React",
+        "A JavaScript module in React"
+      ],
+      "correctAnswer": "A function or class that accepts input and returns a React element"
+    },
+    {
+      "id": 8,
+      "question": "What is the virtual DOM in React?",
+      "options": [
+        "A lightweight copy of the actual DOM",
+        "A part of React used for virtual reality applications",
+        "A data structure used for React state management",
+        "A simulation of the browser's memory"
+      ],
+      "correctAnswer": "A lightweight copy of the actual DOM"
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of keys in React lists?",
+      "options": [
+        "Keys are used to uniquely identify elements in a list and improve performance during rendering",
+        "Keys are used for encryption in React applications",
+        "Keys are used to define styles for elements in a React list",
+        "Keys are used to handle events in React lists"
+      ],
+      "correctAnswer": "Keys are used to uniquely identify elements in a list and improve performance during rendering"
+    },
+    {
+      "id": 10,
+      "question": "What is a higher-order component (HOC) in React?",
+      "options": [
+        "A function that takes a component and returns a new component with additional functionality",
+        "A component that is placed higher in the component tree",
+        "A component that uses hooks extensively",
+        "A component that renders other components"
+      ],
+      "correctAnswer": "A function that takes a component and returns a new component with additional functionality"
+    },
+    {
+      "id": 11,
+      "question": "What is React Context?",
+      "options": [
+        "A way to pass data through the component tree without having to pass props down manually",
+        "A component used for styling in React",
+        "A component used for handling form submissions in React",
+        "A component for managing global state in React"
+      ],
+      "correctAnswer": "A way to pass data through the component tree without having to pass props down manually"
+    },
+    {
+      "id": 12,
+      "question": "What is the purpose of the useEffect hook in React?",
+      "options": [
+        "To perform side effects in your function components",
+        "To create animations in React components",
+        "To handle form submissions in React components",
+        "To manage global state in React components"
+      ],
+      "correctAnswer": "To perform side effects in your function components"
+    }
+  ]
+}
